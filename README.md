@@ -32,4 +32,4 @@ import DatePicker from 'optimat-vue-page-selector'
 | options.previewCount  | number | 预览页码数 | 0 | |
 | options.style  | string | 选项样式，普通（simple），圆形（circle），方形（box） | simple | |
 | options.isShowPageInput  | boolean | 是否显示跳转输入框 | false | |
-| options.onPageChanged  | function | 上页/下页步长 | 1 | |
+| options.onPageChanged  | function | 当前页码变更时执行 | undefined | (currentPage) |
