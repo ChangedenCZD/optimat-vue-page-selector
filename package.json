@@ -1,12 +1,12 @@
 {
   "name": "optimat-vue-page-selector",
-  "version": "0.0.10",
+  "version": "0.0.16",
   "description": "页面选择器",
   "main": "dist/index.js",
   "scripts": {
     "dev": "webpack --config build/webpack.dist.dev.config.js",
     "prod": "webpack --config build/webpack.dist.prod.config.js",
-    "build": "npm run dev && npm run prod",
+    "build": "npm run prod",
     "pub": "npm run build && npm publish"
   },
   "keywords": [
