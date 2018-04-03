@@ -1,6 +1,6 @@
 {
   "name": "optimat-vue-page-selector",
-  "version": "0.0.19",
+  "version": "0.1.0",
   "description": "页面选择器",
   "main": "dist/index.js",
   "scripts": {
@@ -25,7 +25,7 @@
     "url": "https://github.com/ChangedenCZD/optimat-vue-page-selector/issues"
   },
   "homepage": "https://github.com/ChangedenCZD/optimat-vue-page-selector#readme",
-  "dependencies": {
+  "devDependencies": {
     "babel-core": "^6.22.1",
     "babel-loader": "^7.1.4",
     "babel-plugin-transform-runtime": "^6.22.0",
